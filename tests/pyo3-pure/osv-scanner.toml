@@ -1,0 +1,15 @@
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0176"
+reason = "Test crate only; pyo3 fix available in 0.29.0 but upgrading test crate is tracked separately"
+
+[[IgnoredVulns]]
+id = "GHSA-36hh-v3qg-5jq4"
+reason = "Alias of RUSTSEC-2026-0176"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0177"
+reason = "Test crate only; pyo3 fix available in 0.29.0 but upgrading test crate is tracked separately"
+
+[[IgnoredVulns]]
+id = "GHSA-chgr-c6px-7xpp"
+reason = "Alias of RUSTSEC-2026-0177"
