@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/step-security/maturin-action#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^3.0.1",
     "@actions/exec": "^3.0.0",
     "axios": "^1.20.0",
     "@actions/glob": "^0.6.1",
